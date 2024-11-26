@@ -18,3 +18,9 @@ for value in student_scores:
 
 print(maximum)
 print(max(student_scores))
+
+fruits = ["Apple", "Peach", "Pear"]
+for fruit in fruits:
+    print(fruit)
+    print(fruit + " pie")
+
